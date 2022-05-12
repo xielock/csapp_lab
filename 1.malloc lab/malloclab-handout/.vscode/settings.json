@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "random": "c",
+        "stdio.h": "c"
+    }
+}
